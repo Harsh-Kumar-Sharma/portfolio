@@ -6,6 +6,7 @@ import About from './about.vue';
 import Work from './work.vue';
 import Contact from './testimonial.vue';
 import service from './service.vue';
+import Resume from './resume.vue';
 
 const routes = [
   {
@@ -32,6 +33,11 @@ const routes = [
     path: '/contact',
     name: 'Contact',
     component: Contact
+  },
+  {
+    path: '/resume',
+    name: 'Resume',
+    component: Resume
   }
 ];
 
