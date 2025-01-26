@@ -27,7 +27,7 @@
                 <li><router-link to="/work" class="text-white hover:text-gray-400">Works</router-link></li>
                 <li><router-link to="/service" class="text-white hover:text-gray-400">Services</router-link></li>
                 <li><router-link to="/resume" class="text-white hover:text-gray-400">Resume</router-link></li>
-                <li><router-link to="/contact" class="text-white hover:text-gray-400">Contact</router-link></li>
+                <!-- <li><router-link to="/contact" class="text-white hover:text-gray-400">Contact</router-link></li> -->
             </ul>
         </div>
     </nav>
